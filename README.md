@@ -1,2 +1,2 @@
 # WebDevelopmentCourse-Coursera
-Curso profesional HTML, CSS and Javascript
+HTML, CSS and Javascript professional course
